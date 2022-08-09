@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android_Lab_5</string>
+    <string name="text_ID" />
+    <string name="onDown">On Down</string>
+    <string name="onFling">On Fling</string>
+<!--    <string name="onLongPress">On Long Press</string>-->
+    <string name="onSingleTapUp">On Single Tap Up</string>
+    <string name="onLongPress">On Long Press</string>
+</resources>
